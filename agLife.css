@@ -8,6 +8,7 @@ body {
     align-items: center;
     background-color: #f2f2f2;
     overflow: auto; /* Enable scrolling */
+    touch-action: manipulation; /* Disable pinch zooming */
 
 }
 
